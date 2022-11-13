@@ -1,0 +1,29 @@
+button.main {
+    padding: 1rem 2rem;
+    margin: 0 0 0 4px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+}
+
+.primary {
+    padding: 1rem 2rem;
+    margin: 0 0 0 4px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+
+.secondary {
+    padding: 1rem 2rem;
+    margin: 0 0 0 4px;
+    border-radius: 10px;
+    background-color: gray;
+}
+
+.leters {
+    padding: 0.3rem;
+    margin-right: 1rem;
+    background-color: #61dafb;
+}
